@@ -6,11 +6,11 @@ Collaborative list of resources for Swift programming language.
 # Navigation
 
 - [Books and guides](#books-and-guides)
-- [Videos](#guides)
+- [Videos](#videos)
 - [Playgrounds](#playgrounds)
 - [Websites](#websites-and-blogs)
 - [Libraries](#libraries)
-- [Apps](#libs)
+- [Apps](#apps)
 
 ## Books and Guides
 
@@ -20,11 +20,8 @@ Collaborative list of resources for Swift programming language.
 * [Swift Cheat Sheet](https://www.gitbook.io/book/mhm5000/swift-cheat-sheet)
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux)
-* []()
 
 ## Videos
-
-### WWDC 2014
 
 * [Introduction to Swift](https://developer.apple.com/videos/wwdc/2014/?id=402)
 * [Intermediate Swift](https://developer.apple.com/videos/wwdc/2014/?id=403)
@@ -56,9 +53,14 @@ Collaborative list of resources for Swift programming language.
 ## Libraries
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift. Think of it as AFNetworking, reimagined for the conventions of this new language.
+* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
+* [Quick](https://github.com/Quick/Quick)
+* [Dollar.swift](https://github.com/ankurp/Dollar.swift)
+* [Swiftz](https://github.com/maxpow4h/swiftz)
 
 ## Apps
 
 * [Swift 2048](https://github.com/austinzheng/swift-2048)
 * [FlappySwift](https://github.com/fullstackio/FlappySwift)
 * [SwiftHN](https://github.com/Dimillian/SwiftHN)
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather)
