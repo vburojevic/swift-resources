@@ -1,7 +1,7 @@
 Swift Resources
 ===============
 
-Collaborative list of resources for Swift programming language.
+Collaborative list of resources for Swift programming language
 
 # Navigation
 
