@@ -18,5 +18,7 @@ Collaborative list of resources for Swift programming language.
 * 
 
 # Videos
+
 ### WWDC 2014
+
 * [Introduction to Swift](https://developer.apple.com/videos/wwdc/2014/?id=402)
