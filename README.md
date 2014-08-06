@@ -3,7 +3,7 @@ Swift Resources
 
 Collaborative list of resources for Swift programming language.
 
-- [Books and guides](#books-and-guided)
+- [Books and guides](#books-and-guides)
 - [Videos](#guides)
 - [Tutorials](#playgrounds)
 - [Websites](#demo)
