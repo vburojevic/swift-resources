@@ -5,10 +5,10 @@ Collaborative list of resources for Swift programming language.
 
 # Navigation
 
-- [Books and guides](#books-and-guides)
+- [Books and Guides](#books-and-guides)
 - [Videos](#videos)
 - [Playgrounds](#playgrounds)
-- [Websites](#websites-and-blogs)
+- [Websites and Blogs](#websites-and-blogs)
 - [Libraries](#libraries)
 - [Apps](#apps)
 
