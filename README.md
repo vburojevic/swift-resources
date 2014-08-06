@@ -19,7 +19,7 @@ Collaborative list of resources for Swift programming language.
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/) - Apple's official Swift library reference
 * 
 
-# Videos
+## Videos
 
 ### WWDC 2014
 
