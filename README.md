@@ -8,11 +8,11 @@ Collaborative list of resources for Swift programming language.
 - [Books and guides](#books-and-guides)
 - [Videos](#guides)
 - [Playgrounds](#playgrounds)
-- [Websites](#websites)
+- [Websites](#websites-and-blogs)
 - [Libraries](#libraries)
 - [Apps](#libs)
 
-## Books and guides
+## Books and Guides
 
 * [The Swift Programming Language (iBooks)](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11&ls=1) - Apple's official Swift book
 * [Using Swift with Cocoa and Objective-C (iBooks)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11&ls=1) - Apple's official book about using Swift with Objective-C
@@ -35,9 +35,10 @@ Collaborative list of resources for Swift programming language.
 
 * [Learn Swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds
 
-## Websites
+## Websites and Blogs
 
 * [Medium](https://medium.com/swift-programming/latest)
+* [Apple's Swift blog](https://developer.apple.com/swift/blog/) - Apple's official Swift blog
 
 ## Libraries
 
