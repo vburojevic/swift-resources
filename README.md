@@ -7,7 +7,8 @@ Collaborative list of resources for Swift programming language.
 
 - [Books and guides](#books-and-guides)
 - [Videos](#guides)
-- [Tutorials](#playgrounds)
+- [Playgrounds](#playgrounds)
+- [Tutorials](#tutorials)
 - [Websites](#demo)
 - [Libraries](#libraries)
 - [Apps](#libs)
@@ -30,3 +31,15 @@ Collaborative list of resources for Swift programming language.
 * [Swift Interoperability In Depth](https://developer.apple.com/videos/wwdc/2014/?id=407)
 * [Introduction to LLDB and the Swift REPL](https://developer.apple.com/videos/wwdc/2014/?id=409)
 * [Advanced Swift Debugging in LLDB](https://developer.apple.com/videos/wwdc/2014/?id=410)
+
+## Playgrounds
+
+## Tutorials
+
+## Websites
+
+* [Medium](https://medium.com/swift-programming/latest)
+
+## Libraries
+
+## Apps
