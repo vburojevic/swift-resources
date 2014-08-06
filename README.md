@@ -53,14 +53,13 @@ Collaborative list of resources for Swift programming language.
 ## Libraries
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift. Think of it as AFNetworking, reimagined for the conventions of this new language.
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
-* [Quick](https://github.com/Quick/Quick)
-* [Dollar.swift](https://github.com/ankurp/Dollar.swift)
-* [Swiftz](https://github.com/maxpow4h/swiftz)
+* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.
+* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C. Inspired by RSpec, Specta, and Ginkgo.
+* [Dollar.swift](https://github.com/ankurp/Dollar.swift) - Dollar is a Swift library that provides useful functional programming helper methods without extending any built in objects. It is similar to Lo-Dash or Underscore in Javascript.
 
 ## Apps
 
-* [Swift 2048](https://github.com/austinzheng/swift-2048)
-* [FlappySwift](https://github.com/fullstackio/FlappySwift)
-* [SwiftHN](https://github.com/Dimillian/SwiftHN)
-* [SwiftWeather](https://github.com/JakeLin/SwiftWeather)
+* [Swift 2048](https://github.com/austinzheng/swift-2048) - A port of iOS-2048 to Apple's new Swift language.
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - An implementation of Flappy Bird in Swift for iOS 8.
+* [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift using the best features of both the language and iOS 8 latest API
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather is a small iOS app developed in Swift language.
