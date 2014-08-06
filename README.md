@@ -35,7 +35,7 @@ Collaborative list of resources for Swift programming language.
 ## Playgrounds
 
 * [Learn Swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds
-* [Practice Swift](https://github.com/domenicosolazzo/practice-swift)
+* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - Learn Swift through playgrounds
 
 ## Websites and Blogs
 
