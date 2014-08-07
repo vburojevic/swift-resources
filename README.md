@@ -39,6 +39,7 @@ Collaborative list of resources for Swift programming language
 
 ## Websites and Blogs
 
+* [Swift subreddit](http://www.reddit.com/r/swift)
 * [Medium](https://medium.com/swift-programming/latest)
 * [Apple's Swift blog](https://developer.apple.com/swift/blog/)
 * [We Heart Swift](http://www.weheartswift.com/swifting-around/)
