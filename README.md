@@ -55,7 +55,7 @@ Collaborative list of resources for Swift programming language
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift, think of it as AFNetworking, reimagined for the conventions of this new language
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift
-* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C, inspired by RSpec, Specta, and Ginkgo.
+* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C, inspired by RSpec, Specta, and Ginkgo
 * [Dollar.swift](https://github.com/ankurp/Dollar.swift) - Dollar is a Swift library that provides useful functional programming helper methods without extending any built in objects, similar to Lo-Dash or Underscore in Javascript
 
 ## Apps
