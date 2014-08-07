@@ -17,7 +17,7 @@ Collaborative list of resources for Swift programming language
 * [The Swift Programming Language (iBooks)](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11&ls=1) - Apple's official Swift book
 * [Using Swift with Cocoa and Objective-C (iBooks)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11&ls=1) - Apple's official book about using Swift with Objective-C
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/) - Apple's official Swift library reference
-* [Swift Cheat Sheet](https://www.gitbook.io/book/mhm5000/swift-cheat-sheet) - A short guide to using Apple's new programming language, Swift
+* [Swift Cheat Sheet](http://mhm5000.gitbooks.io/swift-cheat-sheet/) - A short guide to using Apple's new programming language, Swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The Official raywenderlich.com Swift Style Guide
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - This document is an attempt to gather the Swift features that are still in flux and likely to change
 
