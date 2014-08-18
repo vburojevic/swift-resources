@@ -19,7 +19,7 @@ Collaborative list of resources for Swift programming language
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/) - Apple's official Swift library reference
 * [Swift Cheat Sheet](http://mhm5000.gitbooks.io/swift-cheat-sheet/) - A short guide to using Apple's new programming language, Swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The Official raywenderlich.com Swift Style Guide
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - This document is an attempt to gather the Swift features that are still in flux and likely to change
+* [Swift In Flux](https://github.com/ksm/SwiftInFlux) - This document is an attempt to gather the Swift features that are still in flux and likely to change
 
 ## Videos
 
@@ -50,6 +50,9 @@ Collaborative list of resources for Swift programming language
 * [Jameson Quave](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
 * [iOS Blog](http://ios-blog.co.uk/swift-tutorials/)
 * [Tuts+](http://code.tutsplus.com/tutorials/an-introduction-to-swift-part-1--cms-21389)
+* [That Thing in Swift](http://thatthinginswift.com/)
+* [Team Tree House](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
 ## Libraries
 
