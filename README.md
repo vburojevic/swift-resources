@@ -20,6 +20,7 @@ Collaborative list of resources for Swift programming language
 * [Swift Cheat Sheet](http://mhm5000.gitbooks.io/swift-cheat-sheet/) - A short guide to using Apple's new programming language, Swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The Official raywenderlich.com Swift Style Guide
 * [Swift In Flux](https://github.com/ksm/SwiftInFlux) - This document is an attempt to gather the Swift features that are still in flux and likely to change
+* [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift
 
 ## Videos
 
