@@ -58,6 +58,7 @@ Collaborative list of resources for Swift programming language
 * [Tuts+](http://code.tutsplus.com/tutorials/an-introduction-to-swift-part-1--cms-21389)
 * [That Thing in Swift](http://thatthinginswift.com/)
 * [Team Tree House](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)
+* [Fu**ing Swift Block Syntax] (http://fuckingswiftblocksyntax.com/)
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
 ## Libraries
