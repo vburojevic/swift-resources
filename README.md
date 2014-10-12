@@ -22,7 +22,7 @@ Collaborative list of resources for Swift programming language
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The Official raywenderlich.com Swift Style Guide
 * [Swift In Flux](https://github.com/ksm/SwiftInFlux) - This document is an attempt to gather the Swift features that are still in flux and likely to change
 * [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift
-* [A Swift Kickstart](https://itunes.apple.com/gb/book/a-swift-kickstart/id891801923?mt=11&utm_campaign=iOS_Dev_Weekly_Issue_167&utm_medium=email&utm_source=iOS%2BDev%2BWeekly) - This book is an introduction to Apple's new Swift Programming Language. If you are an experienced developer who knows at least one modern programming language well, then this book is designed to teach you how to think and program in Swift.
+* [A Swift Kickstart](https://itunes.apple.com/gb/book/a-swift-kickstart/id891801923?mt=11&utm_campaign=iOS_Dev_Weekly_Issue_167&utm_medium=email&utm_source=iOS%2BDev%2BWeekly) - If you are an experienced developer who knows at least one modern programming language well, then this book is designed to teach you how to think and program in Swift.
 
 ## Tutorials
 
